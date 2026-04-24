@@ -1,8 +1,15 @@
 # Hi, I'm Michel Guerrero 👋
 
-**Senior Cloud & DevOps Engineer** · AWS · GCP · Kubernetes · Terraform · Go
+**Senior Cloud & DevOps Engineer** · AWS · GCP · Kubernetes · Terraform · Go · Python · Bash · CI/CD
 
-Based in Montevideo, Uruguay. 5+ years building and operating production infrastructure across AWS and GCP. Rooted in backend engineering with a developer-first perspective on SRE and platform challenges. Currently at **Sabre**, contributing to GKE-based reliability and observability as part of the SRE team.
+Senior Cloud & DevOps Engineer with 5+ years of experience building and operating production infrastructure across AWS and GCP. Rooted in backend engineering, with production microservices experience in Go, Python and Java, I bring a developer-first perspective to SRE and platform engineering challenges. Currently at **Sabre**, contributing to GKE-based reliability and observability initiatives as part of the SRE team. Certified in AWS and GCP, with a strong interest in AI tools and their impact on cloud and engineering workflows.
+
+---
+
+## Education
+
+**Computer Engineering** · Universidad de la República (FING)  
+📅 2018 – Present · Expected graduation: 2027
 
 ---
 
