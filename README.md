@@ -1,8 +1,8 @@
 # Hi, I'm Michel Guerrero 👋
 
-**Senior Cloud & DevOps Engineer** · AWS · GCP · Kubernetes · Terraform · Go · Python · Bash · CI/CD
+**Senior Cloud & DevOps Engineer** · AWS · GCP · Kubernetes · Terraform · Go · Python · Bash · CI/CD · AI
 
-Senior Cloud & DevOps Engineer with 5+ years of experience building and operating production infrastructure across AWS and GCP. Rooted in backend engineering, with production microservices experience in Go, Python and Java, I bring a developer-first perspective to SRE and platform engineering challenges. Currently at **Sabre**, contributing to GKE-based reliability and observability initiatives as part of the SRE team. Certified in AWS and GCP, with a strong interest in AI tools and their impact on cloud and engineering workflows.
+Senior Cloud & DevOps Engineer with 5+ years of experience building and operating production infrastructure across AWS and GCP. Rooted in backend engineering, with production microservices experience in Go, Python and Java, I bring a developer-first perspective to SRE and platform engineering challenges. Currently at **Sabre**, contributing to GKE-based reliability and observability initiatives as part of the SRE team. Certified in AWS and GCP, with hands-on experience integrating AI tools — including Claude, Gemini, Codex, and GitHub Copilot — into cloud and engineering workflows to accelerate delivery, automate operations, and improve developer productivity.
 
 ---
 
@@ -62,6 +62,13 @@ Senior Cloud & DevOps Engineer with 5+ years of experience building and operatin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+
+**AI Tools**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
